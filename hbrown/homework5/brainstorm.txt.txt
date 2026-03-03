@@ -1,0 +1,22 @@
+Topics:
+gravitational slingshot
+Visualizing geospacial data
+3D Modeling/Computer Graphics
+Stochastic Calculus
+physical learning network
+
+Papers/Articles:
+connect.openathens.net/aps.org/cbed900d-1b96-4e39-a3f8-1751ad820b79/auth/rcv/saml2/post
+this paper is about physics-driven neural networks implemented by optimizing classical circuits for resistance.
+
+https://medium.com/@vigamogh/stochastic-modeling-and-simulation-with-python-stochpy-c5fa2a13a023
+this is a paper about the basics of stochastic modeling in python, includes description and tutorial.
+
+
+https://medium.com/data-science/visualizing-geospatial-data-in-python-e070374fe621
+this is a paper on visualizing geospacial data in python, brief tutorial.
+
+Ideas:
+Model a physical learning network in python
+
+Learn and implement basic stochastic analysis on some dataset in python
